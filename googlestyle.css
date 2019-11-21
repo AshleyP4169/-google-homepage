@@ -1,0 +1,35 @@
+-moz-appearance
+
+body {
+  background-color: white;
+}
+
+
+h1 {
+  color: white;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}
+
+
+li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: right;
+}
+
+
+h2 {
+  color: white;
+  text-align: center;
+  padding: 0 
+}
+
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
