@@ -37,16 +37,9 @@ p {
 
 footer {
   background-color: #d3d3d3;
-  margin: 0;
-  padding: 0;
+  margin: 10px;
+  padding: 10px;
   display: inline;
-}
-
-
-ul {
-  margin: 0;
-  padding: 0;
-  float: right;
-  display: inline;
+  text-align: center;
 }
 
